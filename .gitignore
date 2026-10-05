@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+subtitle-translator/models/
+subtitle-translator/wheels/
+subtitle-translator/test-audio/
+subtitle-translator/*-results.json
+subtitle-translator/*-preview.png
+subtitle-translator/app-process.txt
+Thumbs.db
+.DS_Store
